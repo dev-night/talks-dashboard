@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background: #f0f0f0;
+}
+
+#app {
+  padding: 24px;
+  max-width: 400px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  font-weight: normal;
+}
+
+article {
+  background: white;
+  margin-bottom: 12px;
+  padding: 12px;
+  border-radius: 2px;
+}
+
+.loading {
+  text-align: center;
+  color: #777;
+}
+
+.title {
+  text-transform: uppercase;
+}
+
+.author {
+  color: #777;
+}
