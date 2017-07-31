@@ -1,0 +1,4 @@
+{
+	"token": "GITHUB_TOKEN",
+	"url": "https://api.github.com/graphql"
+}
