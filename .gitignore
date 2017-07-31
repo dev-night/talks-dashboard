@@ -66,4 +66,4 @@ fabric.properties
 
 src/vendor/**
 src/composer.lock
-src/config.php
+src/config.json
