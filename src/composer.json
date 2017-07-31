@@ -1,5 +1,6 @@
 {
     "require": {
-        "kint-php/kint": "^2.1"
+        "kint-php/kint": "^2.1",
+        "illuminate/support": "^5.4",
     }
 }
