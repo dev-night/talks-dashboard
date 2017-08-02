@@ -1,0 +1,209 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Trending
+Gist
+ @niklas-heer
+ Sign out
+ Unwatch 4
+  Star 1
+ Fork 0 Linux-statt-Windows/teampage
+ Code  Issues 0  Pull requests 0  Wiki  Releases 0 Settings More
+Branch: master Find file Copy pathteampage/stylesheet.css
+Fetching contributors…
+Cannot retrieve contributors at this time
+CopyRawBlameHistory
+184 lines (142 sloc)  3.42 KB
+.mdl-card__actions {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.mdl-card__actions > .mdl-button {
+    margin-right: 3px;
+    margin-left: 3px;
+}
+
+.mdl-card__media > .background {
+    width: 100%;
+    height: 100px;
+}
+
+.mdl-card__media > .profilePic {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    height: 100px;
+    border: solid;
+    color: white;
+    z-index: 1;
+}
+
+div.mdl-card__actions {
+    overflow-x: auto;
+}
+
+.mdl-card__media {
+    margin: 0;
+}
+
+.mdl-button.mdl-button--twitter {
+    color: #3f51b5;
+}
+
+.mdl-button.mdl-button--twitter:focus:not(:active) {
+    background-color: #00acee;
+}
+
+.mdl-button--raised.mdl-button--twitter {
+    background: #00acee;
+    color: white;
+}
+
+.mdl-button--raised.mdl-button--twitter:hover {
+    background-color: #00acee;
+}
+
+.mdl-button--raised.mdl-button--twitter:active {
+    background-color: #00acee;
+}
+
+.mdl-button--raised.mdl-button--twitter:focus:not(:active) {
+    background-color: #00acee;
+}
+
+.mdl-button--raised.mdl-button--twitter .mdl-ripple {
+    background: white;
+}
+
+.mdl-button--fab.mdl-button--twitter {
+    background: #00acee;
+    color: white;
+}
+
+.mdl-button--fab.mdl-button--twitter:hover {
+    background-color: #00acee;
+}
+
+.mdl-button--fab.mdl-button--twitter:focus:not(:active) {
+    background-color: #00acee;
+}
+
+.mdl-button--fab.mdl-button--twitter:active {
+    background-color: #00acee;
+}
+
+.mdl-button--fab.mdl-button--twitter .mdl-ripple {
+    background: white;
+}
+
+.mdl-button.mdl-button--facebook {
+    color: #3f51b5;
+}
+
+.mdl-button.mdl-button--facebook:focus:not(:active) {
+    background-color: #3b5998;
+}
+
+.mdl-button--raised.mdl-button--facebook {
+    background: #3b5998;
+    color: white;
+}
+
+.mdl-button--raised.mdl-button--facebook:hover {
+    background-color: #3b5998;
+}
+
+.mdl-button--raised.mdl-button--facebook:active {
+    background-color: #3b5998;
+}
+
+.mdl-button--raised.mdl-button--facebook:focus:not(:active) {
+    background-color: #3b5998;
+}
+
+.mdl-button--raised.mdl-button--facebook .mdl-ripple {
+    background: white;
+}
+
+.mdl-button--fab.mdl-button--facebook {
+    background: #3b5998;
+    color: white;
+}
+
+.mdl-button--fab.mdl-button--facebook:hover {
+    background-color: #3b5998;
+}
+
+.mdl-button--fab.mdl-button--facebook:focus:not(:active) {
+    background-color: #3b5998;
+}
+
+.mdl-button--fab.mdl-button--facebook:active {
+    background-color: #3b5998;
+}
+
+.mdl-button--fab.mdl-button--facebook .mdl-ripple {
+    background: white;
+}
+
+.mdl-button.mdl-button--googleplus {
+    color: #3f51b5;
+}
+
+.mdl-button.mdl-button--googleplus:focus:not(:active) {
+    background-color: #e93f2e;
+}
+
+.mdl-button--raised.mdl-button--googleplus {
+    background: #e93f2e;
+    color: white;
+}
+
+.mdl-button--raised.mdl-button--googleplus:hover {
+    background-color: #e93f2e;
+}
+
+.mdl-button--raised.mdl-button--googleplus:active {
+    background-color: #e93f2e;
+}
+
+.mdl-button--raised.mdl-button--googleplus:focus:not(:active) {
+    background-color: #e93f2e;
+}
+
+.mdl-button--raised.mdl-button--googleplus .mdl-ripple {
+    background: white;
+}
+
+.mdl-button--fab.mdl-button--googleplus {
+    background: #e93f2e;
+    color: white;
+}
+
+.mdl-button--fab.mdl-button--googleplus:hover {
+    background-color: #e93f2e;
+}
+
+.mdl-button--fab.mdl-button--googleplus:focus:not(:active) {
+    background-color: #e93f2e;
+}
+
+.mdl-button--fab.mdl-button--googleplus:active {
+    background-color: #e93f2e;
+}
+
+.mdl-button--fab.mdl-button--googleplus .mdl-ripple {
+    background: white;
+}
+
+.mdl-card__title {
+    text-align: center;
+}
+
+.speaker_pic {
+    height: 48px;
+}
